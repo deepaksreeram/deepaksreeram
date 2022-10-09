@@ -22,17 +22,18 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/siddharth2016/update-readme-image -->
 
-I'm Deepak, 21 Y.O.From India.
+I'm Deepak, 21 Y.O. From India.
 
 - :computer: I'm currently Pursuing my B.Tech in CSE
 - :school: I'm currently learning : UiPath
 - :eye: Looking for an internship or opportunity.
+- ⚡ Fun fact **I am Funny**
 
 
 ## Connect with me:
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/deepaksreeram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-sreeram/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20am1a0510@svrec.ac.in)
 
 
