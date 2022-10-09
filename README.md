@@ -33,8 +33,7 @@ I'm Deepak, 21 Y.O.From India.
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/deepaksreeram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/deepak-sreeram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-sreeram/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20am1a0510@svrec.ac.in)
 
 
