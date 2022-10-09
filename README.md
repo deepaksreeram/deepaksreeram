@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 
 I'm Deepak, 21 Y.O.From India.
 
-- :computer: I'm currently working on ~college~ project.
-- :school: I'm currently learning : android
+- :computer: I'm currently Pursuing my B.Tech in CSE
+- :school: I'm currently learning : UiPath
 - :eye: Looking for an internship or opportunity.
-- :book: Often Failing, Always Learning ✌
 
 
-## Where to find me
+## Connect with me:
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/deepaksreeram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-sreeram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20am1a0510@svrec.ac.in)
 
 
@@ -48,7 +47,7 @@ I'm Deepak, 21 Y.O.From India.
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-## OS & Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
